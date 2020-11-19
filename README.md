@@ -7,8 +7,8 @@
 
 ## Exemplos
 [Exemplo Bucles](https://github.com/Britza/Programacion/tree/master/src/com/programacion/ExemploBucles)  
-[Exemplo Condicional]()  
-[Exmeplo Ins Codigo]()  
+[Exemplo Condicional](https://github.com/Britza/Programacion/tree/master/src/com/programacion/ExemploCondicional)  
+[Exmeplo Ins Codigo](https://github.com/Britza/Programacion/tree/master/src/com/programacion/ExemploInsCodigo)  
 
 
 
