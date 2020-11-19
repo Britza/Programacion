@@ -31,7 +31,7 @@ public class Boletin4 {
         Libro obxLibro1 = new Libro();
         obxLibro1.amosar(); // A saida va dar null e 0 por que nun constructor por defecto as variables estan inicilizadas a 0 e null
         //constructor con datos
-        /*Libro obxLibro = new Libro("Manolito Gafotas","pepe jose",1994,(short)230, (float) 5.2);
+        /*Libro obxLibro = new Libro("Manolitos Gafotas","pepe jose",1994,(short)230, (float) 5.2);
         obxLibro.amosar();*/
 
     }
