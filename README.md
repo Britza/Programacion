@@ -9,7 +9,7 @@
 [Exemplo Bucles](https://github.com/Britza/Programacion/tree/master/src/com/programacion/ExemploBucles)  
 [Exemplo Condicional](https://github.com/Britza/Programacion/tree/master/src/com/programacion/ExemploCondicional)  
 [Exmeplo Ins Codigo](https://github.com/Britza/Programacion/tree/master/src/com/programacion/ExemploInsCodigo)  
-[ExemploValidacion](https://github.com/Britza/Programacion/tree/master/src/com/programacion/ExemploValidacion)  
+[Exemplo Validacion](https://github.com/Britza/Programacion/tree/master/src/com/programacion/ExemploValidacion)  
 
 
 
