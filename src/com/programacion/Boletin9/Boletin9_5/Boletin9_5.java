@@ -5,6 +5,5 @@ public class Boletin9_5 {
         Soldo obx = new Soldo();
         obx.soldoTraballadores();
 
-
     }
 }
