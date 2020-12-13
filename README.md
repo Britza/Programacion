@@ -1,7 +1,7 @@
 # Programación
 
 ## Boletines
-[Boletin 2]()  
+[Boletin 2](https://github.com/Britza/Programacion/tree/master/src/com/programacion/Boletin2)  
 [Boletin 3](https://github.com/Britza/Programacion/tree/master/src/com/programacion/Boletin3)  
 [Boletin 4](https://github.com/Britza/Programacion/tree/master/src/com/programacion/Boletin4)  
 [Boletin 5](https://github.com/Britza/Programacion/tree/master/src/com/programacion/Boletin5)  
