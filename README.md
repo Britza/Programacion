@@ -1,6 +1,6 @@
 # Programación
 
-##Trimestre 1  
+## Trimestre 1  
 
 ## Boletines
 [Boletin 2](https://github.com/Britza/Programacion/tree/master/src/com/programacion/Boletin2)  
@@ -20,7 +20,7 @@
 [Exmeplo Ins Codigo](https://github.com/Britza/Programacion/tree/master/src/com/programacion/ExemploInsCodigo)  
 [Exemplo Validacion](https://github.com/Britza/Programacion/tree/master/src/com/programacion/ExemploValidacion)   
 
-##Trimestre 2  
+## Trimestre 2  
 
 
 
