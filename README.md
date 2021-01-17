@@ -2,7 +2,7 @@
 
 ## Trimestre 1  
 
-## Boletines
+### Boletines
 [Boletin 2](https://github.com/Britza/Programacion/tree/master/src/com/programacion/Boletin2)  
 [Boletin 3](https://github.com/Britza/Programacion/tree/master/src/com/programacion/Boletin3)  
 [Boletin 4](https://github.com/Britza/Programacion/tree/master/src/com/programacion/Boletin4)  
@@ -14,7 +14,7 @@
 [Boletin 11](https://github.com/Britza/Programacion/tree/master/src/com/programacion/Boletin11)   
 
 
-## Exemplos
+### Exemplos
 [Exemplo Bucles](https://github.com/Britza/Programacion/tree/master/src/com/programacion/ExemploBucles)  
 [Exemplo Condicional](https://github.com/Britza/Programacion/tree/master/src/com/programacion/ExemploCondicional)  
 [Exmeplo Ins Codigo](https://github.com/Britza/Programacion/tree/master/src/com/programacion/ExemploInsCodigo)  
