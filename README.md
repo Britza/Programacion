@@ -23,7 +23,8 @@
 ## Trimestre 2  
 
 ### Boletines  
-[Boletin 12](https://github.com/Britza/Programacion/tree/master/src/com/programacion/Boletin12)
+[Boletin 12](https://github.com/Britza/Programacion/tree/master/src/com/programacion/Boletin12)  
+[Boletin 13](https://github.com/Britza/Programacion/tree/master/src/com/programacion/Boletin13)
 
 ### Exemplos 
 
