@@ -27,6 +27,8 @@
 [Boletin 13](https://github.com/Britza/Programacion/tree/master/src/com/programacion/Boletin13)
 
 ### Exemplos 
+[Exemplo Excepcion](https://github.com/Britza/Programacion/tree/master/src/com/programacion/ExemploExcepcion)  
+
 
 
 
