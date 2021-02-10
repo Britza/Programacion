@@ -1,4 +1,4 @@
-package com.programacion.Boletin15;
+package com.programacion.Boletin15.Boletin15_1;
 
 public class Numeros {
 
@@ -6,7 +6,7 @@ public class Numeros {
 
     public int[] arrayNumeros(){
 
-        for(int i=0; i>num.length;i++ ){
+        for(int i=0; i<num.length;i++ ){
             int numero = (int) (Math.random()*50 +1);
             num[i]=numero;
         }
@@ -20,5 +20,4 @@ public class Numeros {
 
 
     }
-
 }
