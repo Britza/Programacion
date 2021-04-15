@@ -16,7 +16,7 @@ public class Componentes {
 
         //instanciamos os compoñentes
 
-        marco = new JFrame(" marco con componentes ");
+        marco = new JFrame(" Boletin 19 ");
         panel = new JPanel();
         bLimpar = new JButton("LIMPAR");
         bEscribe = new JButton();
