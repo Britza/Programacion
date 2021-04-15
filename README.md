@@ -38,6 +38,7 @@
 ## Trimestre 3  
 
 ### Boletines  
+[Boletin 19](https://github.com/Britza/Programacion/tree/master/src/com/programacion/Boletin19)  
 
 ### Exemplos  
 
