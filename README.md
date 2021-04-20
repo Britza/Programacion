@@ -39,6 +39,8 @@
 
 ### Boletines  
 [Boletin 19](https://github.com/Britza/Programacion/tree/master/src/com/programacion/Boletin19)  
+[Boletin 20](https://github.com/Britza/Programacion/tree/master/src/com/programacion/Boletin20)  
+[Boletin 21](https://github.com/Britza/Programacion/tree/master/src/com/programacion/Boletin21/com/bri)  
 
 ### Exemplos  
 
